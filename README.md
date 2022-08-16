@@ -2,6 +2,6 @@
 
 Website created with React.js based on HooBank template.
 
-[Website Link](https://choosealicense.com/licenses/mit/)
+[Website Link](https://cheerful-lollipop-15309a.netlify.app/)
 
 ![Screenshot](screenshot.png)
